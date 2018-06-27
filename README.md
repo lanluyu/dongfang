@@ -21,5 +21,5 @@ dongfang是一个基于Scrapy-Selenium的股票信息爬虫，爬取了东方网
 
 爬取结果
 -
-在东方财富网的千股千评页面总共获取了3659条个股信息。每条信息中还包括了该股票的个股研报和其股吧的链接结果由爬虫先存储在MongoDB中，再导出为Excle文件。部分数据如下截图:<br>
+在东方财富网的千股千评页面总共获取了3659条个股信息。每条信息中还包括了该股票的个股研报和其股吧的链接。结果由爬虫先存储在MongoDB中，再导出为Excle文件。部分数据如下截图:<br>
 ![股票信息截图](https://github.com/lanluyu/dongfang/blob/master/stocks.PNG)
